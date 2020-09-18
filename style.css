@@ -19,3 +19,54 @@ header img{
 .cont-1 img{
     height:250px;
 }
+.eve{
+    background-image: url(./img/Events-work.png);
+    height: 100vh;
+    /*width: 100%;*/
+    background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+    
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+}
+.eve-cover{
+    
+
+   margin: 0;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+    height: 50%;
+}
+.eve-cover h2{
+    font-family: 'Bungee Inline', cursive;
+    color: rgb(18, 19, 18);
+    margin-top: 50px;
+}
+.eve-cover button{
+    background-color: transparent;
+}
+.evecrd1{
+    
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+   
+}
+.evecrd1:hover{
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    filter: drop-shadow(0 0 0.75rem rgb(184, 141, 150));
+}
+.crdbtn{
+    border: none;
+    background: transparent;
+    margin-top: 90%;
+}
