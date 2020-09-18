@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+header{
+    margin-top: 70px;
+    height: 90vh;
+    margin-bottom: 50px;
+}
 nav{
     margin-bottom: 50px;
     background-color: black;
@@ -5,4 +12,10 @@ nav{
 .inav{
     height: 30px;
     width: 50px;
+}
+header img{
+    height: 90vh;
+}
+.cont-1 img{
+    height:250px;
 }
