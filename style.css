@@ -20,7 +20,7 @@ header img{
     height:250px;
 }
 .eve{
-    background-image: url(./img/Events-work.png);
+    background-image: url();
     height: 100vh;
     /*width: 100%;*/
     background-attachment: fixed;
@@ -69,4 +69,76 @@ header img{
     border: none;
     background: transparent;
     margin-top: 90%;
+}
+@media (min-width: 481px) and (max-width: 767px) {
+  
+    .crdbtn{
+        border: none;
+        background: transparent;
+        margin-top: 0;
+        margin-left: 35%;
+    }
+    
+  }
+  
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    .crdbtn{
+        border: none;
+        background: transparent;
+        margin-top: 0;
+        margin-left: 35%;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+    .crdbtn{
+        border: none;
+        background: transparent;
+        margin-top: 150%;
+        margin-left: 35%;
+    }
+    
+  }
+ 
+  .thead{
+    background-image: url();
+    height:100%;
+    /*width: 100%;*/
+    background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+.product {
+    
+   
+    height:100%;
+    /*width: 100%;*/
+    background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.product .card h3{
+    font-family: 'Luckiest Guy', cursive;
+
+}
+  .product .card img{
+      height: 250px;
+      
+  }
+  
+.product .card:hover{
+    filter: drop-shadow(0 0 0.75rem rgb(241, 239, 239));
+
+}
+.ttext{
+    letter-spacing: 2px;
+    font-size: 4em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-weight: 700;
 }
