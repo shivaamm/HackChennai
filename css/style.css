@@ -217,14 +217,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 /*------------------------------------*\
 	Logo
 \*------------------------------------*/
-nav{
-    margin-bottom: 50px;
-    background-color: black;
-}
-.inav{
-    height: 30px;
-    width: 50px;
-}
+
 .navbar-brand {
     padding: 0;
 }
