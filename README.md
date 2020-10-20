@@ -1,6 +1,8 @@
 # HackChennai
 This will be the github repository for Hackchennai hackathon :)
 
+Edusite is an online platform specially for college students from CSE background.
+
 # Team Name - Hex-Code
 
 Name of website - Edusite All in One
